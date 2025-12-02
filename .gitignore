@@ -2,7 +2,7 @@
 out/
 .idea/
 GitTest9.iml
-**/*.logg
+**/*.log
 
 ### Mac OS ###
 .DS_Store
